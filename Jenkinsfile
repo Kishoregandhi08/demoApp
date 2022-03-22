@@ -1,5 +1,5 @@
 pipeline{
-    stage(A){
+    stage{
         
     }
 }
